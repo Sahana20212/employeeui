@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Nevbar = () => {
+const Nevbar = () => { 
   return (
      <div className="bg-gray-800"> 
 
